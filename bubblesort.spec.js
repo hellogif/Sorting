@@ -15,3 +15,8 @@ describe('Bubble Sort', function () {
 
 });
 
+// beforeAll(function () {
+//     spyOn(swap, 'swapCount').and.callThrough(); // replace existing `tootsiepop['lick']` method
+//     return swap.calls.count();
+// });
+
